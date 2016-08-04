@@ -1,0 +1,35 @@
+_repo: Five-of-Maxwell-s-Papers_4908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maxwell, James Clerk
+    aliases:
+    - Maxwell, J. C. (James Clerk)
+    - Maxwell, J. Clerk (James Clerk)
+    birthdate: 1831
+    deathdate: 1879
+    gutenberg_agent_id: '1586'
+    url: http://www.gutenberg.org/2009/agents/1586
+    wikipedia: http://en.wikipedia.org/wiki/James_Clerk_Maxwell
+description: ''
+gutenberg_bookshelf: Physics
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics'
+- !lcc 'QC'
+- !lcsh 'Physics'
+- GITenberg
+tableOfContents: On the unequal sensibility of the Foramen Centrale to light of different
+  colours -- On the theory of compound colours with reference to mixtures of blue
+  and yellow light -- On an instrument to illustrate Poinsot's theory of rotation
+  -- Address to the Mathematical and Physical Sections of the British Association
+  -- Introductory lecture on experimental physics.
+title: Five of Maxwell's Papers
+url: http://www.gutenberg.org/ebooks/4908
