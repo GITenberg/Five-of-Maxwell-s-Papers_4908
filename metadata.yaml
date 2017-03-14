@@ -1,5 +1,8 @@
 _repo: Five-of-Maxwell-s-Papers_4908
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maxwell, James Clerk
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1586
     wikipedia: http://en.wikipedia.org/wiki/James_Clerk_Maxwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4908#Five-of-Maxwell-s-Papers
 gutenberg_bookshelf: Physics
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
